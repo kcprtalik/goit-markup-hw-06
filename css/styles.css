@@ -655,7 +655,7 @@ li {
   flex-direction: column;
   margin-left: 70px;
   width: 570px;
-  /*background-color: #ececec;*/
+  margin-top: 72px;
 }
 .join-newsletter {
   color: var(--colorE);
@@ -669,7 +669,6 @@ li {
 .subscribe-footer {
   display: flex;
   gap: 12px;
-  /*background-color: red;*/
 }
 .footer-newsletter-placeholder {
   box-sizing: border-box;
@@ -743,7 +742,7 @@ li {
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.01em;
-  color: var(--main-silver);
+  color: var(--colorG);
   width: 448px;
 }
 input {
